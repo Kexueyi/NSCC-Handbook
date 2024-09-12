@@ -1,4 +1,4 @@
-# NCSS Server
+# NSCC Server Singapore
 ## Basic
 ##### Conncet
 Copy your private key from NSCC website, then save it under `.ssh/` folder, named `ida_rsa`. *(Or other name if you alr have a private key named this)*
